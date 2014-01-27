@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=00401190
+eax=0000000A ebx=007117D0 ecx=00000000 edx=006D889C esi=00711828 edi=18D9CE64
+ebp=18D9CD78 esp=18D9CD40 program=C:\code\CPP\BlackBox\ThreadTest\Debug\ThreadTest.exe, pid 3204, thread unknown (0xFEC)
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+18D9CD78  00401190  (00000000, 00000000, 00000000, 00000000)
+18D9CDB8  610DF995  (007117D0, 18D9CDF4, 610DF8E0, 007117D0)
+End of stack trace

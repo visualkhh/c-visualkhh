@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sss.xsl"?>
+ <!DOCTYPE root[
+<!ELEMENT root (port1,port2,port3,port4,port5,port100*,port10001+)>
+<!ELEMENT port1 	(#PCDATA)>
+<!ELEMENT port2 	(#PCDATA)>
+<!ELEMENT port3 	(#PCDATA)>
+<!ELEMENT port4 	(#PCDATA)>
+<!ELEMENT port5 	(#PCDATA)>
+<!ELEMENT port100	EMPTY>
+
+<!ATTLIST port1 name CDATA #REQUIRED>
+<!ATTLIST port2 name (a|b|c) #REQUIRED>
+<!ATTLIST port3 id ID #REQUIRED>
+<!ATTLIST port4 id CDATA #IMPLIED>
+<!ATTLIST port5 id CDATA "BABO">
+<!ATTLIST port100 id CDATA #FIXED "BABO10">
+	
+	<!--  변수선언 -->
+<!ENTITY name "show me the money">
+]>
+
+<root>
+	<port>
+		<p>
+			<a>
+				vvv
+			</a>
+			<a>
+				vvvc
+			</a>
+			<a>
+				vvvd
+			</a>
+				
+		</p>
+	</port>
+
+
+	<port1 name="zzzzz">vvvvv
+	<![CDATA["wow"]]>
+	</port1>
+	
+	
+	<port2 name="b" >
+		<a>a</a>
+		<a>b</a>
+		<a>c</a>
+			
+	</port2>
+	
+	<port3>
+		&name;<![CDATA["aaaaaaaa"]]> &name;
+		&name;
+		&name;
+		&name;
+		&name;
+	</port3>
+	
+	
+	
+	<port4>
+	</port4>
+	
+	
+	<port5 id="z">
+	</port5>
+	
+	<port100/>
+	
+</root>
