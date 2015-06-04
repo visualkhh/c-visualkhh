@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344899161
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344901100
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1417345000046
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345024637
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417345026172
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345026626
+closed,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417345028729
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345028759
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1417345028769
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1417345028769
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345032838
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345042242
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345044081
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345057823
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417345063936
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417345064466
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345068014
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345068244
+error,log,,,"Unhandled event loop exception",1417345068264
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417345072039
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417345072219
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417345074443
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417345074563
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417345074836
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417345075106

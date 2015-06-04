@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.polarion.eclipse.team.svn.connector.svnkit15,2.2.1.I20091009-1900,"org.polarion.eclipse.team.svn.connector.svnkit15",1417344065229
+started,bundle,org.polarion.eclipse.team.svn.connector.svnkit16,2.2.1.I20091009-1900,"org.polarion.eclipse.team.svn.connector.svnkit16",1417344065440
+started,bundle,org.eclipse.team.svn.ui,0.7.8.I20090904-1300,"org.eclipse.team.svn.ui",1417344069592
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344069776
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1417344070444
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1417344070734
+started,bundle,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser",1417344070874
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344070994
+started,bundle,com.aptana.ide.server,2.0.0.1253913567,"com.aptana.ide.server",1417344072244
+started,bundle,com.aptana.ide.documentation,2.0.0.1256597898,"com.aptana.ide.documentation",1417344082736
+started,bundle,com.aptana.ide.samples.ui,2.0.0.1257900571,"com.aptana.ide.samples.ui",1417344082776
+started,bundle,com.aptana.ide.update.portal,2.0.0.1257900571,"com.aptana.ide.update.portal",1417344082836
+opened,editor,com.aptana.ide.server.portal,2.0.0.1254275737,"com.aptana.ide.server.portal.ui.MyAptanaEditor",1417344082846
+started,bundle,org.eclipse.eclipsemonkey.doms,2.0.0.1253913567,"org.eclipse.eclipsemonkey.doms",1417344083196
+started,bundle,com.aptana.ide.server.core,2.0.0.1253913567,"com.aptana.ide.server.core",1417344083236
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417344083316
+started,bundle,com.aptana.ide.server.ui,2.0.0.1253913567,"com.aptana.ide.server.ui",1417344084116
+started,bundle,org.eclipse.cdt.managedbuilder.ui,5.1.0.200909110608,"org.eclipse.cdt.managedbuilder.ui",1417344085378
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344086078
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344090800
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344094080
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk",1417344097315
+error,log,,,"Unhandled event loop exception",1417344108932
+error,log,,,"Unhandled event loop exception",1417344109562
+error,log,,,"Unhandled event loop exception",1417344110152

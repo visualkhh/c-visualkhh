@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Hooking/src/KeyHook&apos; to &apos;KeyHook.cpp&apos;" description="Rename resource &apos;KeyHook&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/KeyHook" name="KeyHook.cpp" stamp="1417345734587" updateReferences="true"/>
+</session>

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1417344824035
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1417344824035
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344826380
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344850168
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344854928
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344855568
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344859952
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344860202
+error,log,,,"Unhandled event loop exception",1417344860222
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344862675
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344862695
+error,log,,,"Unhandled event loop exception",1417344862725
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344863085
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344863135
+error,log,,,"Unhandled event loop exception",1417344863155
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344863285
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344863315
+error,log,,,"Unhandled event loop exception",1417344863335
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344863445
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344863475
+error,log,,,"Unhandled event loop exception",1417344863495
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344863595
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344863625
+error,log,,,"Unhandled event loop exception",1417344863645
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344869979

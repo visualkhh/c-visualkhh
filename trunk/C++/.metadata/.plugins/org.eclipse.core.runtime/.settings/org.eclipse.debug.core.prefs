@@ -1,0 +1,5 @@
+#Sun Nov 30 20:38:13 KST 2014
+//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.applicationLaunchType=org.eclipse.cdt.cdi.launch.localCLaunch,debug
+eclipse.preferences.version=1
+//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.attachLaunchType=org.eclipse.cdt.cdi.launch.localCAttachLaunch,debug
+//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.postmortemLaunchType=org.eclipse.cdt.cdi.launch.coreFileCLaunch,debug

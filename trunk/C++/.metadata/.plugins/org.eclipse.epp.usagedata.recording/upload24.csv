@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344372914
+error,log,,,"Unhandled event loop exception",1417344372924
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344373174
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344373204
+error,log,,,"Unhandled event loop exception",1417344373214
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344373354
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344373384
+error,log,,,"Unhandled event loop exception",1417344373394
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344373534
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344373574
+error,log,,,"Unhandled event loop exception",1417344373594
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344374464
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344375944
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417344375974
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.views.showView",1417344375974
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344383981
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344386234
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417344396022
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417344396042
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417344397327
+closed,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417344397347
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344398307
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417344400703
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344402023
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344403499

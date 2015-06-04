@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344801694
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344802494
+executed,command,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui.commands.RunLast",1417344802504
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417344805856
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1417344807146
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344807406
+closed,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344810926
+error,log,,,"Internal Error",1417344810976
+error,log,,,"Problems encountered while deleting resources.",1417344810986
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344811926
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1417344811926
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1417344811936
+closed,editor,com.aptana.ide.server.portal,2.0.0.1254275737,"com.aptana.ide.server.portal.ui.MyAptanaEditor",1417344813086
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.closeAll",1417344813546
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417344814786
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417344815788
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344816058
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344816288
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417344816738
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417344817018
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417344817298
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344817628
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344821875
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344822327
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344824025

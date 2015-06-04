@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+closed,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1417343557916
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343564145
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343570961
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417343571011
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343574948
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343593754
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343594144
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343594484
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1417343596074
+error,log,,,"SVN: '0x0000011f: Get Properties' operation finished with error",1417343596134
+error,log,,,"SVN: '0x0000011f: Get Properties' operation finished with error",1417343596184
+error,log,,,"SVN: '0x0000011f: Get Properties' operation finished with error",1417343596234
+error,log,,,"SVN: '0x0000011f: Get Properties' operation finished with error",1417343596264
+error,log,,,"SVN: '0x0000011f: Get Properties' operation finished with error",1417343596384
+error,log,,,"SVN: '0x0000011f: Get Properties' operation finished with error",1417343596424
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343596834
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343650962
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343651062
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343652976
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343653286
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343654088
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343654108
+closed,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343654108
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417343654218
+closed,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343654218

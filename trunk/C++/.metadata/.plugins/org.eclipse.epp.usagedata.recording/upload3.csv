@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1417342840468
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1417342840481
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1417342840512
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1417342840520
+started,bundle,org.eclipse.update.ui,3.2.201.R35x_v20090813,"org.eclipse.update.ui",1417342840534
+started,bundle,com.aptana.ide.core,2.0.0.1256166109,"com.aptana.ide.core",1417342840534
+started,bundle,com.aptana.ide.core.io,2.0.2.1257900571,"com.aptana.ide.core.io",1417342840544
+started,bundle,com.aptana.ide.core.ui,2.0.2.1257900571,"com.aptana.ide.core.ui",1417342840544
+started,bundle,com.aptana.ide.debug.ui,2.0.0.1254164293,"com.aptana.ide.debug.ui",1417342840552
+started,bundle,com.aptana.ide.epl,2.0.0.1256160806,"com.aptana.ide.epl",1417342840562
+started,bundle,com.aptana.ide.intro,2.0.0.1256597898,"com.aptana.ide.intro",1417342840573
+started,bundle,com.aptana.ide.syncing.core,2.0.1.1257900571,"com.aptana.ide.syncing.core",1417342840586
+started,bundle,com.aptana.ide.syncing.ui,2.0.2.1257900571,"com.aptana.ide.syncing.ui",1417342840595
+os,sysinfo,,,"win32",1417342840601
+arch,sysinfo,,,"x86",1417342840601
+ws,sysinfo,,,"win32",1417342840601
+locale,sysinfo,,,"ko_KR",1417342840601
+processors,sysinfo,,,"2",1417342840601
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1417342840601
+java.runtime.version,sysinfo,,,"1.7.0_21-b11",1417342840601
+java.specification.name,sysinfo,,,"Java Platform API Specification",1417342840601
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1417342840601
+java.specification.version,sysinfo,,,"1.7",1417342840601
+java.vendor,sysinfo,,,"Oracle Corporation",1417342840601
+java.version,sysinfo,,,"1.7.0_21",1417342840601

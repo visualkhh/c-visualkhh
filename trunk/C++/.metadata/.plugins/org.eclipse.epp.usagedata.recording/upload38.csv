@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417345252568
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345255318
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345258378
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.views.showView",1417345258388
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345262122
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345314507
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417345314867
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345315690
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345315720
+error,log,,,"Unhandled event loop exception",1417345315730
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345320660
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345322277
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345322297
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345322327
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417345324667
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417345335028
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345340238
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345348373
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417345359163
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345359393
+closed,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417345361702
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345361762
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1417345361772
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1417345361772
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345363442

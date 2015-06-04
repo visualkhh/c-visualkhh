@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
-../src/lib_Serial_Linux.cpp 
+../src/SerialCommunication.cpp 
 
 OBJS += \
-./src/lib_Serial_Linux.o 
+./src/SerialCommunication.o 
 
 CPP_DEPS += \
-./src/lib_Serial_Linux.d 
+./src/SerialCommunication.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes

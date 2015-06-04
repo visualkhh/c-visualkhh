@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417344303654
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344308764
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344310066
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344310106
+error,log,,,"Unhandled event loop exception",1417344310126
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417344318048
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344326245
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1417344329025
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344330344
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344334527
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildAll",1417344335273
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344335573
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344354775
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417344355704
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1417344366723
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344366993
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344367463
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344368873
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344370684
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344370854
+error,log,,,"Unhandled event loop exception",1417344370874
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344372434
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344372474
+error,log,,,"Unhandled event loop exception",1417344372484
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344372884

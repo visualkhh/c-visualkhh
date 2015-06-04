@@ -17,7 +17,7 @@ CPP_DEPS += \
 src/%.o: ../src/%.cpp
 	@echo 'Building file: $<'
 	@echo 'Invoking: Cygwin C++ Compiler'
-	g++ -IC:/cygwin/usr/include/libxml2 -IC:/cygwin/usr/include/libxml2/libxml -I"C:\code\CPP\BlackBox\lib_Utilities\src" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -o"$@" "$<"
+	g++ -IC:/cygwin/usr/include/libxml2 -IC:/cygwin/usr/include/libxml2/libxml -I"Z:\code.google\c-visualkhh\C++\lib_Utilities\src" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -o"$@" "$<"
 	@echo 'Finished building: $<'
 	@echo ' '
 

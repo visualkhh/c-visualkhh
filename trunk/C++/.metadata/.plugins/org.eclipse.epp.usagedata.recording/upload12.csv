@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343511588
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343512960
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417343513930
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343514110
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417343516280
+closed,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343516280
+closed,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343516290
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.closeAll",1417343516300
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343527988
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343532497
+executed,command,org.eclipse.team.svn.ui,0.7.8.I20090904-1300,"org.eclipse.team.svn.ui.command.RevertCommand",1417343532527
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343533357
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343533777
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417343535277
+opened,view,org.eclipse.team.ui,3.5.0.I20090430-0408,"org.eclipse.team.ui.GenericHistoryView",1417343538807
+activated,view,org.eclipse.team.ui,3.5.0.I20090430-0408,"org.eclipse.team.ui.GenericHistoryView",1417343538867
+error,log,,,"SVN: '0x0000011f: Get Properties' operation finished with error",1417343539187
+error,log,,,"SVN: '0x0000011f: Get Properties' operation finished with error",1417343539224
+executed,command,org.eclipse.team.svn.ui,0.7.8.I20090904-1300,"org.eclipse.team.svn.ui.command.ShowResourceHistoryCommand",1417343539634
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343543099
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417343547956
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417343547966
+opened,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1417343554486
+activated,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1417343554556
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417343557916

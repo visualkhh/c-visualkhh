@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344761968
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344762868
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344762906
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344763026
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344768036
+error,log,,,"Unhandled event loop exception",1417344768066
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417344770411
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344776097
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344778557
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344778987
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344782193
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344790442
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.copyLineDown",1417344791123
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.copyLineDown",1417344791263
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.copyLineDown",1417344791403
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.saveAll",1417344792146
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344792806
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344792856
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344792896
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344797462
+error,log,,,"Unhandled event loop exception",1417344797482
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417344799712
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344800914
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344801544
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344801644
