@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345207648
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.properties",1417345207678
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417345208068
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345209387
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345209417
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345209437
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345210658
+executed,command,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui.commands.RunLast",1417345210668
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417345212218
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417345212870
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417345213130
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417345213410
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345217190
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345221370
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345225315
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345225345
+error,log,,,"Unhandled event loop exception",1417345225365
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345230693
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345230723
+error,log,,,"Unhandled event loop exception",1417345230743
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417345233553
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345238045
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1417345240107
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345245047
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.properties",1417345245087

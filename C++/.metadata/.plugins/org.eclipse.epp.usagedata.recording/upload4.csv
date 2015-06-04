@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.info,sysinfo,,,"mixed mode, sharing",1417342840601
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1417342840601
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1417342840601
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1417342840601
+java.vm.specification.version,sysinfo,,,"1.7",1417342840601
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1417342840601
+java.vm.version,sysinfo,,,"23.21-b01",1417342840601
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417342840907
+started,bundle,com.aptana.ide.debug.core,2.0.0.1256168103,"com.aptana.ide.debug.core",1417342841436
+started,bundle,com.aptana.ide.desktop.integration.protocolhandler,2.0.0.1253913567,"com.aptana.ide.desktop.integration.protocolhandler",1417342841707
+started,bundle,com.aptana.ide.update,2.0.0.1256853725,"com.aptana.ide.update",1417342841720
+started,bundle,com.aptana.ide.update.eclipse34,2.0.0.1257900571,"com.aptana.ide.update.eclipse34",1417342841732
+started,bundle,com.aptana.ide.update.eclipse35,2.0.0.1257900571,"com.aptana.ide.update.eclipse35",1417342841759
+started,bundle,org.eclipse.equinox.p2.ui,1.0.101.R35x_v20090819,"org.eclipse.equinox.p2.ui",1417342841936
+started,bundle,com.aptana.ide.desktop.integration.server,2.0.0.1253913567,"com.aptana.ide.desktop.integration.server",1417342842235
+started,bundle,com.aptana.ide.installer,2.0.0.1255027359,"com.aptana.ide.installer",1417342842343
+started,bundle,com.aptana.ide.editors,2.0.0.1256761519,"com.aptana.ide.editors",1417342842454
+started,bundle,com.aptana.ide.scripting,2.0.0.1253913567,"com.aptana.ide.scripting",1417342842473
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417342842952
+closed,view,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.internal.introview",1417342843033
+started,bundle,com.aptana.ide.server.jetty,2.0.0.1256341583,"com.aptana.ide.server.jetty",1417342843265
+started,bundle,com.aptana.ide.update.ui,2.0.0.1257900571,"com.aptana.ide.update.ui",1417342843284
+started,bundle,org.eclipse.eclipsemonkey,2.0.0.1256160806,"org.eclipse.eclipsemonkey",1417342843378
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417342843567
+started,bundle,org.eclipse.eclipsemonkey.lang.javascript,2.0.0.1253913567,"org.eclipse.eclipsemonkey.lang.javascript",1417342843599

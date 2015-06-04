@@ -9,7 +9,6 @@ RM := rm -rf
 # All of the sources participating in the build are defined here
 -include sources.mk
 -include subdir.mk
--include va/subdir.mk
 -include src/subdir.mk
 -include objects.mk
 
@@ -45,7 +44,7 @@ all: RTTI_ROAD.exe
 RTTI_ROAD.exe: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: Cygwin C++ Linker'
-	g++ -L"C:\code\CPP\BlackBox\RTTI_NEW\Debug\src" -o"RTTI_ROAD.exe" $(OBJS) $(USER_OBJS) $(LIBS)
+	g++ -L"Z:\code.google\c-visualkhh\C++\RTTI_NEW\Debug\src" -o"RTTI_ROAD.exe" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 

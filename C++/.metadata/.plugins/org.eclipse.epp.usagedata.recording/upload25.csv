@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344403909
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344406409
+closed,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344406409
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417344407449
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344413729
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1417344415319
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344428222
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.properties",1417344428272
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1417344428742
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417344431972
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344436883
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344436913
+error,log,,,"Unhandled event loop exception",1417344436933
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344439561
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344501849
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344506474
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344533385
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344533875
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344556855
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.properties",1417344556905
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344557955
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344558055
+error,log,,,"Unhandled event loop exception",1417344558075
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1417344579210
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417344579420

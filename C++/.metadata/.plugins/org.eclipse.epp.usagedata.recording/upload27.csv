@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344585139
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344585169
+error,log,,,"Unhandled event loop exception",1417344585189
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344585309
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344585339
+error,log,,,"Unhandled event loop exception",1417344585359
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344585489
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344585519
+error,log,,,"Unhandled event loop exception",1417344585529
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344585649
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344585689
+error,log,,,"Unhandled event loop exception",1417344585709
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344585819
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344585849
+error,log,,,"Unhandled event loop exception",1417344585869
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344585989
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344586019
+error,log,,,"Unhandled event loop exception",1417344586039
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344586149
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344586189
+error,log,,,"Unhandled event loop exception",1417344586199
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344589253
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417344589283
+error,log,,,"Unhandled event loop exception",1417344589303
+started,bundle,com.aptana.ide.pathtools,2.0.1.1257900571,"com.aptana.ide.pathtools",1417344595820

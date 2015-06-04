@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.aptana.ide.debug.ui,2.0.0.1254164293,"com.aptana.ide.debug.ui",1417344052872
+started,bundle,com.aptana.ide.epl,2.0.0.1256160806,"com.aptana.ide.epl",1417344052887
+started,bundle,com.aptana.ide.intro,2.0.0.1256597898,"com.aptana.ide.intro",1417344052935
+started,bundle,com.aptana.ide.syncing.core,2.0.1.1257900571,"com.aptana.ide.syncing.core",1417344052942
+started,bundle,com.aptana.ide.syncing.ui,2.0.2.1257900571,"com.aptana.ide.syncing.ui",1417344052948
+started,bundle,org.eclipse.team.svn.core,0.7.8.I20090904-1300,"org.eclipse.team.svn.core",1417344052996
+os,sysinfo,,,"win32",1417344053003
+arch,sysinfo,,,"x86",1417344053003
+ws,sysinfo,,,"win32",1417344053003
+locale,sysinfo,,,"ko_KR",1417344053003
+processors,sysinfo,,,"2",1417344053003
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1417344053003
+java.runtime.version,sysinfo,,,"1.7.0_21-b11",1417344053003
+java.specification.name,sysinfo,,,"Java Platform API Specification",1417344053003
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1417344053003
+java.specification.version,sysinfo,,,"1.7",1417344053003
+java.vendor,sysinfo,,,"Oracle Corporation",1417344053003
+java.version,sysinfo,,,"1.7.0_21",1417344053003
+java.vm.info,sysinfo,,,"mixed mode, sharing",1417344053003
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1417344053003
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1417344053003
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1417344053003
+java.vm.specification.version,sysinfo,,,"1.7",1417344053003
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1417344053003
+java.vm.version,sysinfo,,,"23.21-b01",1417344053003

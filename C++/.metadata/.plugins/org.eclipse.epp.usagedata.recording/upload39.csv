@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345383516
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1417345387348
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345388738
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345390120
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1417345390130
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1417345390130
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345391551
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345410998
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417345414321
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1417345415044
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345420824
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345420924
+error,log,,,"Unhandled event loop exception",1417345420934
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345426960
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345442827
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1417345445877
+executed,command,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui.commands.RunLast",1417345447077
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345447117
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345455899
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345458885
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345550882
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345552342
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1417345555736
+executed,command,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.edit.text.c.toggle.comment",1417345561691
+executed,command,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.edit.text.c.toggle.comment",1417345563691
